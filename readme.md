@@ -7,6 +7,14 @@ According to the project, this is an improvement on the publication "Human actio
 
 
 
+
+
+
+
+
+
+
+
 To run this project follow these steps:
 
 1.You need to run the BackgroundSubtraction.py file first to subtract the background of each class video.Follow the folder creation rules mentioned at the top of the py file. We have implemented the MaskRCNN model to substract the background. We also implemented the PixelLib framework for subtraction.    
@@ -26,12 +34,32 @@ To run this project follow these steps:
 
 
 
+
+
+
+
+
+
+
+
 The Links you may need:
+
 1.https://pixellib.readthedocs.io/en/latest/
 
 2.https://pixellib.readthedocs.io/en/latest/change_video_bg.html
 
 3.https://pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/
+
+
+
+
+
+
+
+
+
+
+
 
 
 
