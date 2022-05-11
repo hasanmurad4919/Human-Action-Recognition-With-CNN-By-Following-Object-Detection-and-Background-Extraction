@@ -1,0 +1,2 @@
+This project focuses on improving the Human Action Recognition problem, which we found, action can not be effectively detected due to several background elements.
+As a result, we developed a method that included background subtraction and object detection as a preprocessing strategy. We used a CNN model to train the frames after preprocessing. We were able to improve the accuracy of the previous model by using this strategy.
