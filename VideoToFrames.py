@@ -5,8 +5,9 @@ from glob import glob
 # **********************DISCLAIMER************************
 # Step 1 : make a folder and keep the code file here;
 # Step 2 : create 2 folders inside the same folder;
-# Step 3 : rename them one folder name = videos and another =  save;
-# Step 4 : put the videos on videos folder and run the code;
+# Step 3 : rename them one folder name = videos and another =  save, create another folder videos inside this save folder;
+# Step 4 : put the videos on the first videos folder and run the code;
+# Step 5 : run this file and you will find the ouput frames inside save-->videos folder.
 #****************************end*****************************
 a=1
 def create_dir(path):
